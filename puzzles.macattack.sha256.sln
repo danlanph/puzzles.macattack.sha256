@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puzzles.macattack.sha256.console", "puzzles.macattack.sha256.console\puzzles.macattack.sha256.console.csproj", "{37007E24-94AC-43F6-9C8D-C0C9F10C6C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puzzles.macattack.sha256", "puzzles.macattack.sha256\puzzles.macattack.sha256.csproj", "{C4F75FA0-F4F6-46DE-8CE5-26C4DC619969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puzzles.macattack.sha256.tests", "puzzles.macattack.sha256.tests\puzzles.macattack.sha256.tests.csproj", "{745C01D6-EEEC-4B64-B7F2-257EBBF7468A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37007E24-94AC-43F6-9C8D-C0C9F10C6C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37007E24-94AC-43F6-9C8D-C0C9F10C6C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37007E24-94AC-43F6-9C8D-C0C9F10C6C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37007E24-94AC-43F6-9C8D-C0C9F10C6C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F75FA0-F4F6-46DE-8CE5-26C4DC619969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F75FA0-F4F6-46DE-8CE5-26C4DC619969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F75FA0-F4F6-46DE-8CE5-26C4DC619969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F75FA0-F4F6-46DE-8CE5-26C4DC619969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745C01D6-EEEC-4B64-B7F2-257EBBF7468A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745C01D6-EEEC-4B64-B7F2-257EBBF7468A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745C01D6-EEEC-4B64-B7F2-257EBBF7468A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745C01D6-EEEC-4B64-B7F2-257EBBF7468A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
